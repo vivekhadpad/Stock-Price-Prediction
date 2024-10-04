@@ -1,0 +1,17 @@
+Introduction
+Stock price prediction is a challenging task due to the volatile and complex nature of the financial markets. This project aims to predict the stock prices using machine learning techniques. The prediction will help investors make informed decisions about buying and selling stocks.
+
+Objectives
+Collect historical stock price data.
+Preprocess the data to make it suitable for modeling.
+Perform exploratory data analysis to understand the data.
+Build and evaluate different machine learning models for stock price prediction.
+Compare the performance of different models and select the best one.
+Project Plan
+Data Collection: Collect historical stock price data from a reliable source.
+Data Preprocessing: Clean and preprocess the data for analysis.
+Exploratory Data Analysis (EDA): Analyze the data to find patterns and insights.
+Modeling: Build machine learning models to predict stock prices.
+Evaluation: Evaluate the performance of the models.
+Deployment: Using Streamlit /Flask 
+Conclusion: Summarize the findings and results.
